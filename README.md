@@ -2,7 +2,7 @@
 
 Outil de vérification d'un levé d'implantation par rapport au plan théorique (DXF) : bâtiments, axes, lignes, surfaces.
 
-- **En ligne** : https://arpent-nord.github.io/controle-implantation-app/
+- **En ligne** : https://arpent-nord.github.io/APP-Controle-Implantation/
 - **Hors ligne** : ouvrir `controle-implantation.html` ci-dessus → **Download raw file**, puis l'ouvrir dans Edge ou Chrome.
 
 Tout se fait dans le navigateur : le plan DXF, les levés et les dossiers `dossier_*.json` restent sur l'appareil, rien n'est envoyé sur Internet.
